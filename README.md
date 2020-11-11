@@ -1,4 +1,4 @@
-# Econometrics-Final-Project
+# Econometrics Final Project
 
 This is my final project for Econ 265 - Econometrics in Clark University in Spring 2020. 
 
